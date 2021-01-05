@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mummarecipes/static/css/main.42ffb7c5.chunk.css",
+    "main.js": "/Mummarecipes/static/js/main.de35baf5.chunk.js",
+    "main.js.map": "/Mummarecipes/static/js/main.de35baf5.chunk.js.map",
+    "runtime-main.js": "/Mummarecipes/static/js/runtime-main.59efab8d.js",
+    "runtime-main.js.map": "/Mummarecipes/static/js/runtime-main.59efab8d.js.map",
+    "static/js/2.9ae63150.chunk.js": "/Mummarecipes/static/js/2.9ae63150.chunk.js",
+    "static/js/2.9ae63150.chunk.js.map": "/Mummarecipes/static/js/2.9ae63150.chunk.js.map",
+    "static/js/3.6cc46109.chunk.js": "/Mummarecipes/static/js/3.6cc46109.chunk.js",
+    "static/js/3.6cc46109.chunk.js.map": "/Mummarecipes/static/js/3.6cc46109.chunk.js.map",
+    "index.html": "/Mummarecipes/index.html",
+    "static/css/main.42ffb7c5.chunk.css.map": "/Mummarecipes/static/css/main.42ffb7c5.chunk.css.map",
+    "static/js/2.9ae63150.chunk.js.LICENSE.txt": "/Mummarecipes/static/js/2.9ae63150.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59efab8d.js",
+    "static/js/2.9ae63150.chunk.js",
+    "static/css/main.42ffb7c5.chunk.css",
+    "static/js/main.de35baf5.chunk.js"
+  ]
+}
